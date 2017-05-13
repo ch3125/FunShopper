@@ -5537,7 +5537,7 @@ containing a value of this type.
         public static final int ZoomOut=0x7f10005d;
         public static final int ZoomOutSlide=0x7f10005e;
         public static final int action0=0x7f100111;
-        public static final int action_add=0x7f100154;
+        public static final int action_add=0x7f100152;
         public static final int action_bar=0x7f100087;
         public static final int action_bar_activity_content=0x7f100000;
         public static final int action_bar_container=0x7f100086;
@@ -5547,7 +5547,7 @@ containing a value of this type.
         public static final int action_bar_title=0x7f100064;
         public static final int action_container=0x7f10010e;
         public static final int action_context_bar=0x7f100088;
-        public static final int action_delete=0x7f100155;
+        public static final int action_delete=0x7f100153;
         public static final int action_divider=0x7f100115;
         public static final int action_image=0x7f10010f;
         public static final int action_menu_divider=0x7f100002;
@@ -5620,7 +5620,7 @@ containing a value of this type.
         public static final int close2=0x7f1000b5;
         public static final int collapseActionView=0x7f100042;
         public static final int collapsing_toolbar=0x7f1000a5;
-        public static final int contact=0x7f100151;
+        public static final int contact=0x7f10014f;
         public static final int container_action=0x7f1000da;
         public static final int container_action_action=0x7f1000de;
         public static final int container_action_name=0x7f1000db;
@@ -5672,17 +5672,17 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f100068;
         public static final int expanded_menu=0x7f10007d;
         public static final int fab=0x7f1000b0;
-        public static final int faq=0x7f100150;
-        public static final int fashion=0x7f10014a;
-        public static final int featured=0x7f10014d;
+        public static final int faq=0x7f10014e;
+        public static final int fashion=0x7f100148;
+        public static final int featured=0x7f10014b;
         public static final int fill=0x7f100036;
         public static final int fill_horizontal=0x7f100037;
         public static final int fill_vertical=0x7f10002d;
         public static final int fixed=0x7f10005f;
-        public static final int food=0x7f10014b;
+        public static final int food=0x7f100149;
         public static final int frame=0x7f10010b;
         public static final int framelayout=0x7f10012c;
-        public static final int gostore=0x7f10014e;
+        public static final int gostore=0x7f10014c;
         public static final int header=0x7f1000d4;
         public static final int home=0x7f100005;
         public static final int homeAsUp=0x7f100013;
@@ -5719,7 +5719,7 @@ containing a value of this type.
         public static final int lbl_count=0x7f1000ca;
         public static final int left=0x7f10002e;
         public static final int left_middle_container=0x7f1000f9;
-        public static final int lifestyle=0x7f10014c;
+        public static final int lifestyle=0x7f10014a;
         public static final int light=0x7f10004e;
         public static final int line1=0x7f100120;
         public static final int line3=0x7f100122;
@@ -5728,7 +5728,7 @@ containing a value of this type.
         public static final int listMode=0x7f10000f;
         public static final int list_item=0x7f10006b;
         public static final int loading_bar=0x7f100137;
-        public static final int logout=0x7f100153;
+        public static final int logout=0x7f100151;
         public static final int lv_beacons=0x7f1000b2;
         public static final int ly=0x7f100125;
         public static final int main_content=0x7f1000a4;
@@ -5741,10 +5741,8 @@ containing a value of this type.
         public static final int my_phone_input=0x7f100105;
         public static final int nav1=0x7f100144;
         public static final int nav2=0x7f100146;
-        public static final int nav3=0x7f100148;
         public static final int nav_scan_around=0x7f100145;
         public static final int nav_scan_radar=0x7f100147;
-        public static final int nav_tracked_list=0x7f100149;
         public static final int nav_view=0x7f1000ac;
         public static final int navigation_header_container=0x7f1000ba;
         public static final int navigation_layout=0x7f10009c;
@@ -5755,7 +5753,7 @@ containing a value of this type.
         public static final int notification_background=0x7f10011c;
         public static final int notification_main_column=0x7f100117;
         public static final int notification_main_column_container=0x7f100116;
-        public static final int offers=0x7f100152;
+        public static final int offers=0x7f100150;
         public static final int offline=0x7f1000af;
         public static final int onAttachStateChangeListener=0x7f100007;
         public static final int online=0x7f1000ae;
@@ -5842,7 +5840,7 @@ containing a value of this type.
         public static final int topPanel=0x7f100079;
         public static final int touch_outside=0x7f1000b6;
         public static final int tracked_coordinator=0x7f1000d1;
-        public static final int trial=0x7f10014f;
+        public static final int trial=0x7f10014d;
         public static final int tv_description=0x7f1000c3;
         public static final int tv_title=0x7f1000c2;
         public static final int up=0x7f10000c;

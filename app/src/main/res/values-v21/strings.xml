@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="welcome_msg">Welcome! Would you like to check in?</string>
+    <string name="not_store">Not In Store</string>
 </resources>

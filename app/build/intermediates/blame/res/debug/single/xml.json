@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_scan.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\pref_scan.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_beacon_detail.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\preferences_beacon_detail.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_beacon_info.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\preferences_beacon_info.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_beacon_event.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\preferences_beacon_event.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_actions.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\pref_actions.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_beacon_action.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\preferences_beacon_action.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_beacon_notification.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\xml\\preferences_beacon_notification.xml"
+    }
+]

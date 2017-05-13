@@ -30,11 +30,10 @@
         android:id="@+id/nav3"
         android:checkableBehavior="single"
         >
-
         <item
             android:id="@+id/nav_tracked_list"
             android:icon="@drawable/ic_tag_black_24dp"
-            android:title="@string/action_tracked_list" />
+            android:title="@string/not_store" />
     </group>
 
 

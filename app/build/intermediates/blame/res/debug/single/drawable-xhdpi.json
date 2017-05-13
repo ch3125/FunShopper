@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\applogo.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\applogo.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\more.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\more.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_black_18dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_black_18dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_access_point_network.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_access_point_network.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\applogo2.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\applogo2.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sort_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_sort_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_white_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_track_changes_white_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_track_changes_white_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_portable_wifi_off_white_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_portable_wifi_off_white_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_radar_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_radar_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_location_on_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_circle_outline_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_on_black_18dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_on_black_18dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_tasker.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_tasker.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_tap_and_play_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_tap_and_play_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_tag_black_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_tag_black_24dp.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_location_white_24dp.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_location_white_24dp.png"
+    }
+]

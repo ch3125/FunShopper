@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\shopcolo.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\mipmap-xhdpi\\shopcolo.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ibeacon.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\mipmap-xhdpi\\ibeacon.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

@@ -26,16 +26,15 @@
             android:icon="@drawable/ic_radar_black_24dp"
             android:title="@string/action_scan_managed" />
         </group>
-    <group
+  <!--  <group
         android:id="@+id/nav3"
         android:checkableBehavior="single"
         >
-
         <item
             android:id="@+id/nav_tracked_list"
             android:icon="@drawable/ic_tag_black_24dp"
             android:title="@string/action_tracked_list" />
-    </group>
+    </group>-->
 
 
 

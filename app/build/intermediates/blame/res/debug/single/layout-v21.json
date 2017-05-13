@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

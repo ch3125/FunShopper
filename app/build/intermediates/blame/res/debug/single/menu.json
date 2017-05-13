@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_navigation_drawer.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\menu\\activity_main_navigation_drawer.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tracked_list.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\menu\\menu_tracked_list.xml"
+    }
+]

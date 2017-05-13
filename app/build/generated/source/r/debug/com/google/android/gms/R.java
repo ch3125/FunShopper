@@ -80,7 +80,7 @@ public final class R {
         public static final int auto = 0x7f100027;
         public static final int button = 0x7f100102;
         public static final int center = 0x7f100029;
-        public static final int contact = 0x7f100151;
+        public static final int contact = 0x7f10014f;
         public static final int dark = 0x7f10004d;
         public static final int hybrid = 0x7f10003e;
         public static final int icon_only = 0x7f10004a;

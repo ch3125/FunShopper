@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                                   
+
+    
+                 
+                            
+                                                                             
+           
+
+    <FrameLayout
+        android:id="@+id/content_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:longClickable="true"
+        android:tag="layout/item_detected_beacon_0" 
+        android:background="@color/bg_light_grey"  xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:id="@+id/container_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/beacon_item_view_header"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp"
+                android:layout_centerVertical="true"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/beacon_item_uuid_value"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:tag="binding_1"         
+                    android:textSize="@dimen/text_small_body" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/beacon_item_view"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:baselineAligned="false"
+                android:orientation="horizontal"
+                android:paddingBottom="6dp"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingTop="1dp">
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:tag="binding_2"         
+
+
+    android:textSize="@dimen/text_extra_small_body" />
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical">
+
+
+
+
+
+                    <TextView
+                        android:id="@+id/beacon_item_distance_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/mv_text_distance"
+                        android:textSize="@dimen/text_extra_small_body" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/beacon_item_distance_value"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="3dp"
+                            android:tag="binding_3"             
+                            android:textSize="25dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/mv_text_distance_unit"
+                            android:textSize="@dimen/text_small_body" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.8"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:id="@+id/beacon_major_minor_container"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0"
+                            android:orientation="vertical"
+                            android:tag="binding_4"                          >
+
+                            <TextView
+                                android:id="@+id/beacon_item_major_label"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:tag="binding_5"              
+                                android:textSize="@dimen/text_extra_small_body" />
+
+                            <TextView
+                                android:id="@+id/beacon_item_id2_value"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginEnd="12dp"
+                                android:tag="binding_6"          
+                                android:textSize="@dimen/text_small_body" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/beacon_minor_container"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0"
+                            android:orientation="vertical"
+                            android:tag="binding_7"                          >
+
+                            <TextView
+                                android:id="@+id/beacon_item_minor_label"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:tag="binding_8"              
+                                android:textSize="@dimen/text_extra_small_body" />
+
+                            <TextView
+                                android:id="@+id/beacon_item_id3_value"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginEnd="12dp"
+                                android:tag="binding_9"          
+                                android:textSize="@dimen/text_small_body" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </FrameLayout>
+
+         

@@ -1,0 +1,4 @@
+#Sun May 14 00:33:10 IST 2017
+base.0=F\:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=F\:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

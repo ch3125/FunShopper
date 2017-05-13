@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_delete_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\efeb834fbb1dcf33903104f2c3261bdab8ab3fd9\\output\\res\\layout\\layout_delete_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_empty_list.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\layout_empty_list.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fab.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main_navigation.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\content_main_navigation.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tracked_beacons.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fragment_tracked_beacons.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_navigation.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\activity_main_navigation.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_beacon_detail.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\activity_beacon_detail.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scan_beacons.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fragment_scan_beacons.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radar_label.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\radar_label.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ahoy.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\layout\\activity_ahoy.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\9d4334e98f88805bb437240f6d68c33db482cb92\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_image_slider.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fragment_image_slider.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main_navigation.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\nav_header_main_navigation.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\9d4334e98f88805bb437240f6d68c33db482cb92\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_country.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\layout\\item_country.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_switch_compat.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\9d4334e98f88805bb437240f6d68c33db482cb92\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\9d4334e98f88805bb437240f6d68c33db482cb92\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_mode.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\activity_payment_mode.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detected_beacon.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\item_detected_beacon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_recyclerview.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_checkbox.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tracked_beacon.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\item_tracked_beacon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_action_beacon.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\item_action_beacon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_dialog_edittext.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\beacon_distance.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\beacon_distance.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_featured.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\activity_featured.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_fragment.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ahoy.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\layout\\fragment_ahoy.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_number_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\efeb834fbb1dcf33903104f2c3261bdab8ab3fd9\\output\\res\\layout\\layout_number_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cards.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\cards.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_page.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fragment_home_page.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_layout.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main_navigation.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\app_bar_main_navigation.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scan_radar.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\fragment_scan_radar.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_beacon.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\activity_beacon.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_information.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\2ebe82d174bd08519834b7daa71bae4e3e0beb41\\output\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_main.xml",
+        "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\layout\\navigation_main.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intl_phone_input.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\layout\\intl_phone_input.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]

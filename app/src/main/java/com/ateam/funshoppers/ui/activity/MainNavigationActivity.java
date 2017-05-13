@@ -122,7 +122,7 @@ public class MainNavigationActivity extends BaseActivity
         readExtras();
 
         if (null == savedInstanceState || mBeacon != null) {
-            launchTrackedListView();
+            //launchTrackedListView();
         }
 
     }
@@ -249,9 +249,9 @@ public class MainNavigationActivity extends BaseActivity
                 launchScanBeaconView();
                 break;
 
-            case R.id.nav_tracked_list:
-                launchTrackedListView();
-                break;
+          //  case R.id.nav_tracked_list:
+                //launchTrackedListView();
+              //  break;
         }
 
         drawer.closeDrawer(GravityCompat.START);
@@ -282,7 +282,7 @@ public class MainNavigationActivity extends BaseActivity
 
     }
 
-    private void addTrackedListFragment() {
+  /*  private void addTrackedListFragment() {
         FragmentManager fragmentManager = getSupportFragmentManager();
         if (fragmentManager != null) {
             Fragment frg = checkFragmentInstance(R.id.content_frame, TrackedBeaconsFragment.class);
@@ -299,7 +299,7 @@ public class MainNavigationActivity extends BaseActivity
                         .commit();
             }
         }
-    }
+    }*/
 
     public void hideFab() {
         fab.setVisibility(View.GONE);
@@ -361,9 +361,9 @@ public class MainNavigationActivity extends BaseActivity
         addRadarScanFragment();
     }
 
-    private void launchTrackedListView() {
-        addTrackedListFragment();
-    }
+   // private void launchTrackedListView() {
+    //    addTrackedListFragment();
+   // }
     @Override
 
     public void onBackPressed()
