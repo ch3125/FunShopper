@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\applications\MyLemonade\FunShopper\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="689953a588774bd9ab3d83a3c5432ea9b24d8241">
+        <dex dex="F:\applications\MyLemonade\FunShopper\app\build\intermediates\pre-dexed\debug\classes_29bb6611ffd76193c441c06b471b15678b29f5de.jar" />
+    </item>
+
+</items>

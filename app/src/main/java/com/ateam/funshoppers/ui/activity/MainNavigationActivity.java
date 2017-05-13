@@ -249,9 +249,6 @@ public class MainNavigationActivity extends BaseActivity
                 launchScanBeaconView();
                 break;
 
-          //  case R.id.nav_tracked_list:
-                //launchTrackedListView();
-              //  break;
         }
 
         drawer.closeDrawer(GravityCompat.START);

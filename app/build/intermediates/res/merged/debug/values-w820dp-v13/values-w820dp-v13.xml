@@ -2,4 +2,5 @@
 <resources>
     <dimen name="activity_horizontal_margin">64dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <string name="not_store">Not In Store</string>
 </resources>

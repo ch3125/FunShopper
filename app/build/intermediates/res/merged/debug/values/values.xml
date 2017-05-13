@@ -1425,6 +1425,7 @@
     <string name="navailable">Not Available</string>
     <string name="navigation_item_1">Home</string>
     <string name="navigation_item_2">Events</string>
+    <string name="not_store">Not In Store</string>
     <string name="notification_display_last_position">your location on map</string>
     <string name="offline_pay">Pay through QR Scan</string>
     <string name="online_pay">Pay Online</string>
