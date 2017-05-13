@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\applications\\MyLemonade\\FunShopper\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-pl\\values-pl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 181,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "F:\\applications\\MyLemonade\\FunShopper\\library\\build\\intermediates\\bundles\\debug\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 181,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 76,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "F:\\applications\\MyLemonade\\FunShopper\\library\\build\\intermediates\\bundles\\debug\\res\\values-pl\\values-pl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 76,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    }
+]

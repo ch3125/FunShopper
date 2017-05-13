@@ -10,10 +10,10 @@ public class ScanRadarFragment$$ViewBinder<T extends com.ateam.funshoppers.ui.fr
     View view;
     view = finder.findRequiredView(source, 2131755170, "field 'mToolbar'");
     target.mToolbar = finder.castView(view, 2131755170, "field 'mToolbar'");
-    view = finder.findRequiredView(source, 2131755210, "field 'mRadar'");
-    target.mRadar = finder.castView(view, 2131755210, "field 'mRadar'");
-    view = finder.findRequiredView(source, 2131755211, "field 'mDistView'");
-    target.mDistView = finder.castView(view, 2131755211, "field 'mDistView'");
+    view = finder.findRequiredView(source, 2131755215, "field 'mRadar'");
+    target.mRadar = finder.castView(view, 2131755215, "field 'mRadar'");
+    view = finder.findRequiredView(source, 2131755216, "field 'mDistView'");
+    target.mDistView = finder.castView(view, 2131755216, "field 'mDistView'");
   }
 
   @Override public void unbind(T target) {

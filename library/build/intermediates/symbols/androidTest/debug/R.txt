@@ -1,0 +1,2 @@
+int string do_you_want_to_open_location_settings 0x7f020000
+int string requesting_location_access 0x7f020001
