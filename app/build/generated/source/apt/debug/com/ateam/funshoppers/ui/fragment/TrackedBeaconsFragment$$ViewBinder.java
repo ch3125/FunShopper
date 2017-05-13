@@ -8,12 +8,12 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrackedBeaconsFragment$$ViewBinder<T extends com.ateam.funshoppers.ui.fragment.TrackedBeaconsFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131755206, "field 'mListBeacons'");
-    target.mListBeacons = finder.castView(view, 2131755206, "field 'mListBeacons'");
-    view = finder.findRequiredView(source, 2131755201, "field 'mProgressBar'");
-    target.mProgressBar = finder.castView(view, 2131755201, "field 'mProgressBar'");
-    view = finder.findRequiredView(source, 2131755207, "field 'mEmpty'");
-    target.mEmpty = finder.castView(view, 2131755207, "field 'mEmpty'");
+    view = finder.findRequiredView(source, 2131755213, "field 'mListBeacons'");
+    target.mListBeacons = finder.castView(view, 2131755213, "field 'mListBeacons'");
+    view = finder.findRequiredView(source, 2131755208, "field 'mProgressBar'");
+    target.mProgressBar = finder.castView(view, 2131755208, "field 'mProgressBar'");
+    view = finder.findRequiredView(source, 2131755214, "field 'mEmpty'");
+    target.mEmpty = finder.castView(view, 2131755214, "field 'mEmpty'");
     view = finder.findRequiredView(source, 2131755170, "field 'mToolbar'");
     target.mToolbar = finder.castView(view, 2131755170, "field 'mToolbar'");
   }

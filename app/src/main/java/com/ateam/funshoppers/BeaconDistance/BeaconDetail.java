@@ -10,6 +10,7 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.view.ContextThemeWrapper;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -24,6 +25,7 @@ public class BeaconDetail extends AppCompatActivity {
     TextView tv;
     Point p;
     AlertDialog.Builder loginDialog;
+    Button close,close1,close2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -78,10 +80,7 @@ public class BeaconDetail extends AppCompatActivity {
                 // The method that displays the popup.
 
     public void customize(){
-
-
-
-
+       onStart();
 
     }
 

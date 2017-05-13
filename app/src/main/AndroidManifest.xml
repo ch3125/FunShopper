@@ -28,7 +28,13 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".ui.activity.MainNavigationActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 <activity android:name=".Main_navigation.LoginActivity"
     ></activity>
         <meta-data
@@ -36,11 +42,7 @@
             android:value="@string/google_map_key" />
 
         <activity android:name=".AppIntro.ImageBackgroundExampleActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".BeaconDistance.BeaconDisctance"
