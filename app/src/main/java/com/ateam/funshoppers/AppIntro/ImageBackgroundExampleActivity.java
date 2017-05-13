@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.graphics.Typeface;
 import android.os.Bundle;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.ateam.funshoppers.Main_navigation.LoginActivity;
 import com.ateam.funshoppers.R;

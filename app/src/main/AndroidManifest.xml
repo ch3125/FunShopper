@@ -29,7 +29,8 @@
         <activity
             android:name=".ui.activity.MainNavigationActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-
+<activity android:name=".Main_navigation.LoginActivity"
+    ></activity>
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="@string/google_map_key" />
@@ -45,9 +46,7 @@
             android:name=".BeaconDistance.BeaconDisctance"
             android:launchMode="singleTop"
             android:parentActivityName=".ui.activity.MainNavigationActivity" />
-        <activity android:name=".BeaconDistance.WebviewActivity" />
-        <activity android:name=".Main_navigation.LoginActivity" />
-        <activity android:name=".ui.activity.SettingsActivity" />
+
         <activity android:name=".ui.activity.BeaconActionActivity" />
 
         <receiver android:name=".receiver.BeaconAlertReceiver">
@@ -64,7 +63,6 @@
         <activity
             android:name=".BeaconDistance.BeaconDetail"
             android:theme="@style/MyMaterialTheme"></activity>
-        <activity android:name=".BeaconDistance.OneFragment"></activity>
     </application>
 
 </manifest>

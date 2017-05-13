@@ -51,7 +51,7 @@ public class ServerRequests {
 
     public void fetchDataInBackground(Contact contact , GetUserCallback callback)
     {
-        progressDialog.show();
+//        progressDialog.show();
         new FetchDataAsyncTask(contact, callback).execute();
 
 

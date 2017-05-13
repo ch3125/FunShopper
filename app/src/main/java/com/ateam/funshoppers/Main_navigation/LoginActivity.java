@@ -66,6 +66,7 @@ public class LoginActivity extends ActionBarActivity {
 //        Logger.i("token->>" + token);
         etpassword = (EditText) findViewById(R.id.input_password);
         btnSignUp = (Button) findViewById(R.id.btn_login);
+        localDatabase = new LocalDatabase(this);
       //  etusername.addTextChangedListener(new MyTextWatcher(etusername));
 
         etpassword.addTextChangedListener(new MyTextWatcher(etpassword));
@@ -198,8 +199,6 @@ public class LoginActivity extends ActionBarActivity {
 
                 } else {
 
-                  //  Intent intent = new Intent(LoginActivity.this,MainActivity.class);
-
 
 
                     AlertDialog.Builder builder = new AlertDialog.Builder(LoginActivity.this, R.style.AppCompatAlertDialogStyle);
@@ -217,11 +216,11 @@ public class LoginActivity extends ActionBarActivity {
                     builder.setNegativeButton("Not In Store", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialog, int which) {
-                         //   localDatabase.storeData(returnedContact);
-                          //  localDatabase.setUserLoggedIn(true);
+                            localDatabase.storeData(returnedContact);
+                            localDatabase.setUserLoggedIn(true);
 
-                          //  Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-                          //  startActivity(intent);
+                           // Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                           // startActivity(intent);
                         }
                     });
                     builder.show();

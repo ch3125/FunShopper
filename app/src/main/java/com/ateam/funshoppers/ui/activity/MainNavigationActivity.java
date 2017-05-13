@@ -368,16 +368,7 @@ public class MainNavigationActivity extends BaseActivity
 
     public void onBackPressed()
     {
-        if(backButtonCount >= 1)
-        {
-            Intent intent = new Intent(this, MainActivity.class);
-            startActivity(intent);
-        }
-        else
-        {
-            Toast.makeText(this, "Press the back button once again to go to Store.", Toast.LENGTH_SHORT).show();
-            backButtonCount++;
-        }
+        //TODO
     }
 
 
