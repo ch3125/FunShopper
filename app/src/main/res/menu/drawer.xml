@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/fashion"
+        android:title="Fashion"
+        android:checked="false"/>
+    <item android:id="@+id/food"
+        android:title="Food"
+        android:checked="false"/>
+    <item android:id="@+id/lifestyle"
+        android:title="LifeStyle"
+        android:checked="false"/>
+        <item android:id="@+id/featured"
+            android:title="Featured"
+            android:checked="false"/>
+    </group>
+    <item android:title="features">
+        <menu>
+            <item android:id="@+id/gostore"
+                android:title="Go to Store"/>
+            <item android:id="@+id/trial"
+                android:title="Virtual Trial"/>
+        </menu>
+
+    </item>
+    <item android:title="Other">
+        <menu>
+            <item android:id="@+id/faq"
+                android:title="FAQ"/>
+            <item android:id="@+id/contact"
+                android:title="Contact Us"/>
+            <item android:id="@+id/offers"
+                android:title="Offer Zone"/>
+            <item android:id="@+id/logout"
+                android:title="Log Out"/>
+        </menu>
+    </item>
+</menu>

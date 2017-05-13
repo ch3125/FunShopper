@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="adapters-1.0-rc3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/94d83b38d30b69d72d98f52c9181ab29e03ea183/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/94d83b38d30b69d72d98f52c9181ab29e03ea183/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Android/android-sdk-windows/android-sdk-windows/extras/android/m2repository/com/android/databinding/adapters/1.0-rc3/adapters-1.0-rc3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

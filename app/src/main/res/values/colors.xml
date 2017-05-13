@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="finestWhite10">#1AFFFFFF</color>
+    <color name="finestWhite20">#33FFFFFF</color>
+    <color name="finestWhite30">#4DFFFFFF</color>
+
+    <color name="orange">#FA0</color>
+
+    <color name="solid_one">#4abc96</color>
+    <color name="solid_two">#357180</color>
+    <color name="solid_three">#ffce00</color>
+
+    <color name="first_slide_background">#E91E63</color>
+    <color name="first_slide_buttons">#880E4F</color>
+
+    <color name="second_slide_background">#9C27B0</color>
+    <color name="second_slide_buttons">#4A148C</color>
+
+    <color name="third_slide_background">#009688</color>
+    <color name="third_slide_buttons">#004D40</color>
+
+    <color name="fourth_slide_background">#795548</color>
+    <color name="fourth_slide_buttons">#3E2723</color>
+
+    <color name="custom_slide_background">#3F51B5</color>
+    <color name="custom_slide_buttons">#1A237E</color>
+
+    <!--Splash Screen-->
+    <item name="splash_background" type="color">@color/colorPrimary</item>
+
+    <color name="finestGray10">#1AD2D2D2</color>
+    <color name="finestGray20">#33D2D2D2</color>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+    <color name="finestBlack05">#0D202020</color>
+    <color name="finestBlack10">#1A202020</color>
+    <color name="finestBlack20">#33202020</color>
+    <color name="finestBlack30">#4D202020</color>
+    <color name="finestBlack40">#66202020</color>
+    <color name="PrimaryColor">#2196F3</color>
+    <color name="PrimaryDarkColor">#1976D2</color>
+    <color name="finestWhite">#FFFFFF</color>
+    <color name="finestBlack">#000000</color>
+    <color name="finestSilver">#A5A5A5</color>
+    <color name="finestGray">#E7E7E7</color>
+    <color name="hn_orange">#FF6600</color>
+    <color name="hn_orange_dark">#e65c00</color>
+    <color name="hn_orange_lighter">#FF8C3F</color>
+    <color name="light_grey">#D4D4D4</color>
+    <color name="bg_light_grey">#E9E9E9</color>
+    <color name="dark_grey">#A8A8A8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="super_light_grey">#FAFAFA</color>
+    <color name="line_grey">#D7D7D7</color>
+    <color name="black_87pc">#DD000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary">#9E9E9E</color>
+    <color name="primary_dark">#616161</color>
+    <color name="primary_light">#F5F5F5</color>
+    <color name="accent">#FFEB3B</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="redPrimaryDark">#DD3131</color>
+    <color name="redPrimary">#FF5E5E</color>
+    <color name="redPrimaryLight">#FFC9C9</color>
+
+    <color name="bluePrimaryDark">#048BFE</color>
+    <color name="bluePrimary">#2199FF</color>
+    <color name="bluePrimaryLight">#BADFFF</color>
+
+    <color name="blackPrimaryDark">#282828</color>
+    <color name="blackPrimary">#2E2E2E</color>
+    <color name="blackPrimaryLight">#8F8F8F</color>
+    <color name="gray">#eee9e9</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="bg_screen2">#22b00d</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+</resources>

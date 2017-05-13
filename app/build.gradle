@@ -1,0 +1,71 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.android.databinding'
+apply plugin: 'com.neenbedankt.android-apt'
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+
+
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.ateam.funshoppers"
+        minSdkVersion 18
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    final SUPPORT_LIBRARY_VERSION = '24.+'
+    final DAGGER_VERSION = '2.2'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile deps.rxandroid2
+    compile deps.appcompatv7
+    compile "com.android.support:support-v4:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:support-v13:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:appcompat-v7:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:preference-v7:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:cardview-v7:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:design:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:recyclerview-v7:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:support-annotations:$SUPPORT_LIBRARY_VERSION"
+    compile "com.google.dagger:dagger:$DAGGER_VERSION"
+    apt "com.google.dagger:dagger-compiler:$DAGGER_VERSION"
+    compile "com.android.support:support-annotations:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:appcompat-v7:$SUPPORT_LIBRARY_VERSION"
+    compile "com.android.support:design:$SUPPORT_LIBRARY_VERSION"
+    // retrofit, gson
+    //    Beacon Library
+    //   compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile project(':library')
+    compile project(path: ':library')
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+    compile 'com.codemybrainsout.onboarding:onboarder:1.0.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+    compile 'com.codemybrainsout.onboarding:onboarder:1.0.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.thefinestartist:utils:0.9.0'
+    compile 'org.altbeacon:android-beacon-library:2.9.2'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'net.rimoto:intlphoneinput:0.9.3'
+    compile 'com.orhanobut:logger:1.15'
+    compile 'com.sa90.materialarcmenu:library:1.4'
+    testCompile 'junit:junit:4.12'
+    apt 'com.thefinestartist:compilers:0.9.0'
+    provided 'org.glassfish:javax.annotation:10.0-b28'
+}
+apply plugin: 'com.google.gms.google-services'
