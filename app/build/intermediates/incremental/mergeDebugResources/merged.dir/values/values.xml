@@ -1317,6 +1317,7 @@
     <string name="app_name" translatable="false">FunShopper</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="available">Available</string>
+    <string name="beacon">Search for stores in near proximity</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="btn_sign_up">Sign Up</string>
     <string name="button.finish">FINISH</string>

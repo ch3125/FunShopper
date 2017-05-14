@@ -26,7 +26,6 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 
-
 import com.ateam.funshoppers.R;
 
 import com.ateam.funshoppers.model.FirebaseToken;
@@ -219,8 +218,9 @@ public class LoginActivity extends ActionBarActivity {
                             localDatabase.storeData(returnedContact);
                             localDatabase.setUserLoggedIn(true);
 
-                           // Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-                           // startActivity(intent);
+                            Intent intent = new Intent(LoginActivity.this, Featured.class);
+                            intent.putExtra("url","http://suvojitkar365.esy.es/apptite/seeall.php?type=lifestyle");
+                            startActivity(intent);
                         }
                     });
                     builder.show();

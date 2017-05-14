@@ -253,5 +253,6 @@
     <string name="offline_pay">Pay through QR Scan</string>
     <string name="welcome_msg">Welcome! Would you like to check in?</string>
     <string name="not_store">Not In Store</string>
+    <string name="beacon">Search for stores in near proximity</string>
 
 </resources>

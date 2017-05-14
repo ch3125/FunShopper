@@ -92,32 +92,32 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_np.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_gb_eng.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_gb_eng.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_im.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_im.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_gp.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_gp.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_im.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_im.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_gb_eng.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_gb_eng.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_ga.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_ga.png"
-    },
-    {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ba.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ba.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ru.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ru.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_eh.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_eh.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ru.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ru.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ba.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ba.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_ga.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_ga.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\funlogomain.png",
@@ -196,12 +196,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_qa.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_cn.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_cn.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_gs.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_gs.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_cn.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_cn.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_oh.png",
@@ -280,24 +280,24 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ss.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ea.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ea.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ni.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ni.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ea.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ea.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bb.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bb.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_tr.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_tr.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ie.png",
@@ -308,28 +308,28 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_mo.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\drawable\\rounded_button.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_au.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_au.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\drawable\\rounded_button.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bh.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bh.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_cz.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_cz.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_pn.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_pn.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_mc.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_mc.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_pn.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_pn.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_cz.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_cz.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_pt.png",
@@ -352,16 +352,16 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ee.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_wv.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_wv.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_kr.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_kr.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bz.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bz.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_kr.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_kr.png"
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_wv.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_wv.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_gm.png",
@@ -384,12 +384,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_nf.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_py.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_py.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_md.png",
@@ -480,12 +480,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_cl.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_lk.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_lk.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_sb.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_sb.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_lk.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_lk.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ag.png",
@@ -516,12 +516,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bv.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_il.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_il.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_hm.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_hm.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_il.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_il.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_io.png",
@@ -552,12 +552,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_fo.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bj.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bj.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_tz.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_tz.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bj.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bj.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_va.png",
@@ -648,12 +648,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\drawable\\seventh_bg.xml"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\translate.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\drawable\\translate.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\translate.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\4d4432c88ceb7790c0719f9acbaea476f12207e0\\output\\res\\drawable\\translate.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_in.png",
@@ -720,12 +720,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_mf.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\aa7810dd52595495aad3b79ca8622dce6dce8d17\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_vn.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_vn.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\aa7810dd52595495aad3b79ca8622dce6dce8d17\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_ne.png",
@@ -844,12 +844,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_mp.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_yt.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_yt.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ir.png",
@@ -892,12 +892,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bg.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bg.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ci.png",
@@ -984,12 +984,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_et.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ps.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ps.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\f999aabd0a5c89307110a58debfffb56478a964c\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_nz.png",
@@ -1040,24 +1040,24 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_sg.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_no.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_no.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_sr.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_sr.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_no.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_no.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_je.png",
@@ -1180,12 +1180,12 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ke.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_az.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_us_az.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_so.png",
@@ -1240,24 +1240,24 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_mq.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_pl.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_pl.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_gd.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_gd.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_pl.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_pl.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_at.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_at.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_fk.png",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_fk.png"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_bf.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_bf.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_fk.png",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_fk.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_za.png",
@@ -1348,12 +1348,12 @@
         "source": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\drawable\\offers.jpg"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ad.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ad.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_lb.png",
@@ -1508,16 +1508,16 @@
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ar.png"
     },
     {
-        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_tc.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_tc.png"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_ml.png",
         "source": "C:\\Users\\Home\\.android\\build-cache\\3e24e176688919b3b4e052b4f47dcf3b5f651cda\\output\\res\\drawable\\country_ml.png"
+    },
+    {
+        "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Home\\.android\\build-cache\\fcf5d092e9f8fe10f716218dd16fb526a59e670c\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "F:\\applications\\MyLemonade\\FunShopper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country_us_ky.png",

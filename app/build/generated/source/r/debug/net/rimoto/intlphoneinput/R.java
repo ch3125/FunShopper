@@ -335,9 +335,9 @@ public final class R {
         public static final int countries = 0x7f080000;
     }
     public static final class string {
-        public static final int app_name = 0x7f090050;
-        public static final int item_image_contentDescription = 0x7f090082;
-        public static final int item_preview_country = 0x7f090083;
-        public static final int item_preview_dialCode = 0x7f090084;
+        public static final int app_name = 0x7f090051;
+        public static final int item_image_contentDescription = 0x7f090083;
+        public static final int item_preview_country = 0x7f090084;
+        public static final int item_preview_dialCode = 0x7f090085;
     }
 }

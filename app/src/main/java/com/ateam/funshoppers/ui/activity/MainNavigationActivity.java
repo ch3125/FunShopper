@@ -29,7 +29,6 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -50,6 +49,8 @@ import android.widget.Toast;
 
 import com.ateam.funshoppers.BeaconDistance.BeaconDisctance;
 import com.ateam.funshoppers.BeaconLocatorApp;
+import com.ateam.funshoppers.Main_navigation.Featured;
+import com.ateam.funshoppers.Main_navigation.LoginActivity;
 import com.ateam.funshoppers.R;
 import com.ateam.funshoppers.model.TrackedBeacon;
 import com.ateam.funshoppers.ui.fragment.ScanFragment;
@@ -154,7 +155,7 @@ public class MainNavigationActivity extends BaseActivity
 
     @Override
     public void onRequestPermissionsResult(int requestCode,
-                                           @NonNull String permissions[], int[] grantResults) {
+                                            String permissions[], int[] grantResults) {
         switch (requestCode) {
             case PERMISSION_REQUEST_COARSE_LOCATION: {
                 if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
@@ -247,6 +248,11 @@ public class MainNavigationActivity extends BaseActivity
                 break;
             case R.id.nav_scan_around:
                 launchScanBeaconView();
+                break;
+            case R.id.online:
+                Intent intent = new Intent(MainNavigationActivity.this, Featured.class);
+                intent.putExtra("url","http://suvojitkar365.esy.es/apptite/seeall.php?type=lifestyle");
+                startActivity(intent);
                 break;
 
         }
@@ -365,8 +371,7 @@ public class MainNavigationActivity extends BaseActivity
 
     public void onBackPressed()
     {
-        //TODO
-    }
+        moveTaskToBack(true);    }
 
 
     }

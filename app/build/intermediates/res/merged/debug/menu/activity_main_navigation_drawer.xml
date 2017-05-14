@@ -26,6 +26,15 @@
             android:icon="@drawable/ic_radar_black_24dp"
             android:title="@string/action_scan_managed" />
         </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/nav3">
+
+        <item
+            android:id="@+id/online"
+            android:icon="@drawable/ic_radar_black_24dp"
+            android:title="@string/not_store" />
+    </group>
 
 
 

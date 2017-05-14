@@ -29,11 +29,7 @@
         <activity
             android:name=".ui.activity.MainNavigationActivity"
             android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 <activity android:name=".Main_navigation.LoginActivity"
     ></activity>
@@ -42,7 +38,11 @@
             android:value="@string/google_map_key" />
 
         <activity android:name=".AppIntro.ImageBackgroundExampleActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".BeaconDistance.BeaconDisctance"
@@ -64,7 +64,9 @@
 
         <activity
             android:name=".BeaconDistance.BeaconDetail"
-            android:theme="@style/MyMaterialTheme"></activity>
+            android:theme="@style/MyMaterialTheme"
+            android:parentActivityName=".ui.activity.MainNavigationActivity"
+            android:launchMode="singleTop"></activity>
         <activity android:name=".Main_navigation.PaymentMode"
             android:theme="@style/AppTheme2"></activity>
         <activity android:name=".Main_navigation.Featured"

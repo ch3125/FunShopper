@@ -11,5 +11,11 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.ateam.funshoppers.ui.activity.MainNavigationActivity"
     tools:showIn="@layout/app_bar_main_navigation">
-
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textSize="20dp"
+    android:textColor="#000"
+    android:gravity="center"
+    android:text="@string/beacon"/>
 </RelativeLayout>

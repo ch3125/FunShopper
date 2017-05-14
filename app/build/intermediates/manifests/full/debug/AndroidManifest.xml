@@ -56,11 +56,6 @@
         <activity
             android:name="com.ateam.funshoppers.ui.activity.MainNavigationActivity"
             android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name="com.ateam.funshoppers.Main_navigation.LoginActivity" />
 
@@ -69,6 +64,11 @@
             android:value="@string/google_map_key" />
 
         <activity android:name="com.ateam.funshoppers.AppIntro.ImageBackgroundExampleActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name="com.ateam.funshoppers.BeaconDistance.BeaconDisctance"
@@ -89,6 +89,8 @@
 
         <activity
             android:name="com.ateam.funshoppers.BeaconDistance.BeaconDetail"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.ateam.funshoppers.ui.activity.MainNavigationActivity"
             android:theme="@style/MyMaterialTheme" />
         <activity
             android:name="com.ateam.funshoppers.Main_navigation.PaymentMode"

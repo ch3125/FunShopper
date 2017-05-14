@@ -45,8 +45,27 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 155,
+                    "endColumn": 70,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 70,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
                     "endColumn": 50,
-                    "endOffset": 201
+                    "endOffset": 272
                 },
                 "from": {
                     "file": "F:\\applications\\MyLemonade\\FunShopper\\app\\src\\main\\res\\values-w820dp\\strings.xml",
