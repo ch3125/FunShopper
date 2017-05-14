@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:2:1-76:12
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml
@@ -83,7 +83,7 @@ ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xm
 	android:name
 		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:17:9-53
 application
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:21:5-74:19
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:21:5-76:19
 MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Home\.android\build-cache\c8a05ba74d707625ed2b886394e6e5ef46049fd4\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:preference-v7:24.2.1] C:\Users\Home\.android\build-cache\2ebe82d174bd08519834b7daa71bae4e3e0beb41\output\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Home\.android\build-cache\a7007560bb5d12c57b6c71a27eb09ce335fff07d\output\AndroidManifest.xml:9:5-20
@@ -139,82 +139,86 @@ activity#com.ateam.funshoppers.Main_navigation.LoginActivity
 ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:34:1-35:17
 	android:name
 		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:34:11-56
+activity#com.ateam.funshoppers.Main_navigation.Register
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:36:9-71
+	android:name
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:36:19-59
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:36:9-38:54
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:37:9-39:54
 	android:value
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:38:13-51
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:39:13-51
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:37:13-62
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:38:13-62
 activity#com.ateam.funshoppers.AppIntro.ImageBackgroundExampleActivity
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:40:9-46:20
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:41:9-47:20
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:40:19-74
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:41:19-74
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:41:13-45:29
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:42:13-46:29
 action#android.intent.action.MAIN
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:42:17-69
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:42:25-66
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:44:17-77
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:44:27-74
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:45:27-74
 activity#com.ateam.funshoppers.BeaconDistance.BeaconDisctance
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:47:9-50:80
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:48:9-51:80
 	android:parentActivityName
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:50:13-77
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:51:13-77
 	android:launchMode
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:49:13-43
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:50:13-43
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:48:13-59
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:49:13-59
 activity#com.ateam.funshoppers.ui.activity.BeaconActionActivity
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:52:9-70
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:53:9-70
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:52:19-67
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:53:19-67
 receiver#com.ateam.funshoppers.receiver.BeaconAlertReceiver
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:54:9-58:20
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:55:9-59:20
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:54:19-63
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:55:19-63
 intent-filter#${applicationId}.action.ALARM_NOTIFICATION_SHOW
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:55:13-57:29
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:56:13-58:29
 action#${applicationId}.action.ALARM_NOTIFICATION_SHOW
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:56:17-90
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:57:17-90
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:56:25-87
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:57:25-87
 		INJECTED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml
 receiver#com.ateam.funshoppers.receiver.LocationReceiver
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:59:9-63:20
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:60:9-64:20
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:59:19-60
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:60:19-60
 intent-filter#${applicationId}.action.GET_CURRENT_LOCATION
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:60:13-62:29
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:61:13-63:29
 action#${applicationId}.action.GET_CURRENT_LOCATION
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:61:17-87
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:62:17-87
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:61:25-84
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:62:25-84
 		INJECTED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml
 activity#com.ateam.funshoppers.BeaconDistance.BeaconDetail
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:65:9-69:55
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:66:9-70:55
 	android:parentActivityName
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:68:13-77
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:69:13-77
 	android:launchMode
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:69:13-43
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:70:13-43
 	android:theme
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:67:13-51
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:68:13-51
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:66:13-56
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:67:13-56
 activity#com.ateam.funshoppers.Main_navigation.PaymentMode
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:70:9-71:57
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:71:9-72:57
 	android:theme
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:71:13-45
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:72:13-45
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:70:19-62
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:71:19-62
 activity#com.ateam.funshoppers.Main_navigation.Featured
-ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:72:9-73:57
+ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:73:9-74:57
 	android:theme
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:73:13-45
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:74:13-45
 	android:name
-		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:72:19-59
+		ADDED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml:73:19-59
 uses-sdk
 INJECTED from F:\applications\MyLemonade\FunShopper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.databinding:adapters:1.0-rc3] C:\Users\Home\.android\build-cache\94d83b38d30b69d72d98f52c9181ab29e03ea183\output\AndroidManifest.xml:22:5-24:41

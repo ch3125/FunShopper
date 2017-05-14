@@ -58,6 +58,7 @@
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
         <activity android:name="com.ateam.funshoppers.Main_navigation.LoginActivity" />
+        <activity android:name="com.ateam.funshoppers.Main_navigation.Register" />
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"

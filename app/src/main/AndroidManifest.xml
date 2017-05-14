@@ -33,6 +33,7 @@
         </activity>
 <activity android:name=".Main_navigation.LoginActivity"
     ></activity>
+        <activity android:name=".Main_navigation.Register"></activity>
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="@string/google_map_key" />
@@ -71,6 +72,7 @@
             android:theme="@style/AppTheme2"></activity>
         <activity android:name=".Main_navigation.Featured"
             android:theme="@style/AppTheme2"></activity>
+
     </application>
 
 </manifest>
