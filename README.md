@@ -1,0 +1,2 @@
+# FunShopper
+This app was developed for shehack hackathon.It is a smart payment application that uses beacon technology that can be deployed in malls and other public places for customers to be able to browse place and products without the need of internet. The payment can also be done using beacons(without the need of internet) or QR code. This single app is capable of scanning all nearbuy eddystone beacons.  Its specialty is that it does not  require internet and different apps need not be installed for scanning different beacons.
